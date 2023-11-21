@@ -4,9 +4,10 @@ div {
     max-width: 400px;
     margin: auto;
     padding: 20px;
-    background-color: #fff;
+    background-color:aquamarine;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin-top: 20px;
   }
   
   h1 {
@@ -19,8 +20,16 @@ div {
   }
   
   span {
-    color: #555;
+    color: black;
     font-style: italic;
+  }
+  .address{
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    background-color:aquamarine;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   }
   
 

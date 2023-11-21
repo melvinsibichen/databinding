@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { NgModel } from '@angular/forms';
 
 @Component({
   selector: 'app-profile',
@@ -14,4 +15,8 @@ export class ProfileComponent {
     email: 'sibichenmelvin@gmail.com',   
   };
 
+//two way binding ngmodel
+  Address: string = '';
+
 }
+
